@@ -1,6 +1,6 @@
 # Çok Katmanlı Mimari 
 
-[Techcareer.net](https://www.techcareer.net/) tarafından Cumhuriyet'in 100.yılında Kadınlara Özel Back End .Net Bootcamp'İ kapsamında bitirme projesi olarak verilen katmanlı mimari projesidir.
+[Techcareer.net](https://www.techcareer.net/) tarafından Cumhuriyet'in 100. yılında Kadınlara Özel Back End .Net Bootcamp'i kapsamında bitirme projesi olarak verilen katmanlı mimari projesidir.
 
 ---
 
