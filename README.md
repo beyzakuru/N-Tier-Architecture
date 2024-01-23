@@ -10,10 +10,10 @@
 2. .NET Core
 3. Entity Framework Core (Code First)
 4.  Monolitik mimari
-5.  Desing Pattern 
-   - Repository design pattern
-   - UnitOfWork design pattern
-   - Dependency injection design pattern
+5.  Desing Pattern
+    + Repository design pattern
+    + UnitOfWork design pattern
+    + Dependency injection design pattern
 
 --- 
 
