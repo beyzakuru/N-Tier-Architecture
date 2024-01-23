@@ -1,0 +1,11 @@
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Core\bin\Debug\net6.0\NTierArchitecture.Core.deps.json
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Core\bin\Debug\net6.0\NTierArchitecture.Core.dll
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Core\bin\Debug\net6.0\NTierArchitecture.Core.pdb
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Core\obj\Debug\net6.0\NTierArchitecture.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Core\obj\Debug\net6.0\NTierArchitecture.Core.AssemblyInfoInputs.cache
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Core\obj\Debug\net6.0\NTierArchitecture.Core.AssemblyInfo.cs
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Core\obj\Debug\net6.0\NTierArchitecture.Core.csproj.CoreCompileInputs.cache
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Core\obj\Debug\net6.0\NTierArchitecture.Core.dll
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Core\obj\Debug\net6.0\refint\NTierArchitecture.Core.dll
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Core\obj\Debug\net6.0\NTierArchitecture.Core.pdb
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Core\obj\Debug\net6.0\ref\NTierArchitecture.Core.dll

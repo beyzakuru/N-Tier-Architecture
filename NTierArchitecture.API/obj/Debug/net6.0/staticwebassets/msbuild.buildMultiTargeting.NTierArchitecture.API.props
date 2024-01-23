@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NTierArchitecture.API.props" />
+</Project>

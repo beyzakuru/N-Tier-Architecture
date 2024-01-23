@@ -1,0 +1,17 @@
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Repository\bin\Debug\net6.0\NTierArchitecture.Repository.deps.json
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Repository\bin\Debug\net6.0\NTierArchitecture.Repository.runtimeconfig.json
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Repository\bin\Debug\net6.0\NTierArchitecture.Repository.dll
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Repository\bin\Debug\net6.0\NTierArchitecture.Repository.pdb
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Repository\bin\Debug\net6.0\NTierArchitecture.Core.dll
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Repository\bin\Debug\net6.0\NTierArchitecture.Core.pdb
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Repository\obj\Debug\net6.0\NTierArchitecture.Repository.csproj.AssemblyReference.cache
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Repository\obj\Debug\net6.0\NTierArchitecture.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Repository\obj\Debug\net6.0\NTierArchitecture.Repository.AssemblyInfoInputs.cache
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Repository\obj\Debug\net6.0\NTierArchitecture.Repository.AssemblyInfo.cs
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Repository\obj\Debug\net6.0\NTierArchitecture.Repository.csproj.CoreCompileInputs.cache
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Repository\obj\Debug\net6.0\NTierArchitecture.Repository.csproj.CopyComplete
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Repository\obj\Debug\net6.0\NTierArchitecture.Repository.dll
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Repository\obj\Debug\net6.0\refint\NTierArchitecture.Repository.dll
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Repository\obj\Debug\net6.0\NTierArchitecture.Repository.pdb
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Repository\obj\Debug\net6.0\NTierArchitecture.Repository.genruntimeconfig.cache
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Repository\obj\Debug\net6.0\ref\NTierArchitecture.Repository.dll

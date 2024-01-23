@@ -1,0 +1,17 @@
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Service\bin\Debug\net6.0\NTierArchitecture.Service.deps.json
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Service\bin\Debug\net6.0\NTierArchitecture.Service.dll
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Service\bin\Debug\net6.0\NTierArchitecture.Service.pdb
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Service\bin\Debug\net6.0\NTierArchitecture.Core.dll
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Service\bin\Debug\net6.0\NTierArchitecture.Repository.dll
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Service\bin\Debug\net6.0\NTierArchitecture.Repository.pdb
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Service\bin\Debug\net6.0\NTierArchitecture.Core.pdb
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Service\obj\Debug\net6.0\NTierArchitecture.Service.csproj.AssemblyReference.cache
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Service\obj\Debug\net6.0\NTierArchitecture.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Service\obj\Debug\net6.0\NTierArchitecture.Service.AssemblyInfoInputs.cache
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Service\obj\Debug\net6.0\NTierArchitecture.Service.AssemblyInfo.cs
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Service\obj\Debug\net6.0\NTierArchitecture.Service.csproj.CoreCompileInputs.cache
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Service\obj\Debug\net6.0\NTierArchitecture.Service.csproj.CopyComplete
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Service\obj\Debug\net6.0\NTierArchitecture.Service.dll
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Service\obj\Debug\net6.0\refint\NTierArchitecture.Service.dll
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Service\obj\Debug\net6.0\NTierArchitecture.Service.pdb
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Service\obj\Debug\net6.0\ref\NTierArchitecture.Service.dll
