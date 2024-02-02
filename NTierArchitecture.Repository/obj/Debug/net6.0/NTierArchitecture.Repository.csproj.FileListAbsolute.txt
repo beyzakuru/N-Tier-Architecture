@@ -15,3 +15,4 @@ C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Repository\obj\Debug\
 C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Repository\obj\Debug\net6.0\NTierArchitecture.Repository.pdb
 C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Repository\obj\Debug\net6.0\NTierArchitecture.Repository.genruntimeconfig.cache
 C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Repository\obj\Debug\net6.0\ref\NTierArchitecture.Repository.dll
+C:\n-tier-architecture\NTierArchitecture\NTierArchitecture.Repository\obj\Debug\net6.0\NTierArchitecture.Repository.sourcelink.json

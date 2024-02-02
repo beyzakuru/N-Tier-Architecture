@@ -17,7 +17,6 @@ namespace NTierArchitecture.API.Modules
     {
         protected override void Load(ContainerBuilder builder)
         {
-
             //Generic olduğu için bu şekilde belirttik.
             builder.RegisterGeneric(typeof(GenericRepository<>)).As(typeof(IGenericRepository<>)).InstancePerLifetimeScope();
             builder.RegisterGeneric(typeof(Service<>)).As(typeof(IService<>)).InstancePerLifetimeScope();

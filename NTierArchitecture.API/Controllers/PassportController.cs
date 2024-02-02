@@ -18,7 +18,7 @@ namespace NTierArchitecture.API.Controllers
             _passportService = passportService;
         }
 
-        // Get api/passenger/
+        // Get api/passport/
         [HttpGet]
         public async Task<IActionResult> All()
         {
@@ -27,7 +27,7 @@ namespace NTierArchitecture.API.Controllers
             return CreateActionResult(GlobalResultDto<List<PassportDto>>.Success(200, passportsDto));
         }
 
-        // Get api/passenger/3
+        // Get api/passport/3
         [HttpGet("{id}")]
         public async Task<IActionResult> GetById(int id)
         {

@@ -1,9 +1,12 @@
 using Autofac;
+using Autofac.Extensions.DependencyInjection;
 using FluentValidation.AspNetCore;
+using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
 using NTierArchitecture.API.Abstraction;
 using NTierArchitecture.API.Concrete;
+using NTierArchitecture.API.MiddleWares;
 using NTierArchitecture.API.Modules;
 using NTierArchitecture.Core.Repositories;
 using NTierArchitecture.Core.Services;
@@ -23,6 +26,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
+
 
 #region swagger i?lemleri
 builder.Services.AddSwaggerGen(options =>
@@ -81,12 +85,15 @@ builder.Services.AddDbContext<AppDbContext>(x =>
     });
 });
 
+builder.Host.UseServiceProviderFactory(new AutofacServiceProviderFactory());
 
 //Buradan Autofac kullanarak yazd???m?z RepoServiceModule'ü dahil ediyoruz.
 builder.Host.ConfigureContainer<ContainerBuilder>(containerBuilder => containerBuilder.RegisterModule(new RepoModuleService()));
 
 
+
 var app = builder.Build();
+
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
@@ -96,9 +103,14 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+app.UseCustomException();
 
+app.UseRouting();
+
+app.UseAuthentication();
 app.UseAuthorization();
 
+app.UseMiddleware<JwtMiddleware>();
 app.MapControllers();
 
 app.Run();

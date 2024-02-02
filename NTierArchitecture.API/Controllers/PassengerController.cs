@@ -15,13 +15,11 @@ namespace NTierArchitecture.API.Controllers
     {
         private readonly IMapper _mapper;
         private readonly IPassengerService _passengerService;
-        private readonly IJwtAuthenticationManager _jwtAuthenticationManager;
 
-        public PassengerController(IMapper mapper, IPassengerService passengerService, IJwtAuthenticationManager jwtAuthenticationManager)
+        public PassengerController(IMapper mapper, IPassengerService passengerService)
         {
             _mapper = mapper;
             _passengerService = passengerService;
-            _jwtAuthenticationManager = jwtAuthenticationManager;
         }
 
         // Get api/passenger/

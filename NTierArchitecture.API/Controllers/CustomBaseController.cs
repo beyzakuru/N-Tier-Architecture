@@ -8,6 +8,7 @@ namespace NTierArchitecture.API.Controllers
     [ApiController]
     public class CustomBaseController : ControllerBase
     {
+        [NonAction]
         public IActionResult CreateActionResult<T> (GlobalResultDto<T> response)
         {
             if (response.StatusCode == 204)

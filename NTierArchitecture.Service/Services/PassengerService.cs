@@ -60,7 +60,7 @@ namespace NTierArchitecture.Service.Services
 
         private byte[] GenerateSaltedHash(byte[] plainText, byte[] salt)
         {
-            HashAlgorithm algorithm = new SHA256Managed();
+            HashAlgorithm algorithm = SHA256.Create();
 
             byte[] plainTextWithSaltBytes = new byte[plainText.Length + salt.Length];
             for (int i = 0; i < plainText.Length; i++)
